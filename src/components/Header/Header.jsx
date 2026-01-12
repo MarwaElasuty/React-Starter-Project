@@ -1,10 +1,9 @@
 import React, { useEffect } from 'react'
 import './Header.css'
-import stateImg from '../../assets/state-mgmt.png';
+import reactHeaderImg from '../../assets/react-core-concepts.png';
 
 
 const Header = () => {
-    const test='../../assets/components.png'
 
     const reactDescriptions = ['Core', 'Fundamental', 'Crucial'];
 
@@ -14,7 +13,8 @@ const Header = () => {
 
     return (
         <header>
-     <img src={stateImg} alt="Test" />
+     
+            <img src={reactHeaderImg}/>
             <h1>React Essentials</h1>
             <p>
                 {reactDescriptions[genRandomInt(2)]} React concepts you will need for almost any app you are
