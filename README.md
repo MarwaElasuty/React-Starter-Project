@@ -60,5 +60,5 @@ This is a learning-focused project, created to strengthen React basics before mo
 
 - Author
 
-Marwa Mohammed Elsayed
+Marwa Mohammed Elsayed |
 Frontend React Developer
