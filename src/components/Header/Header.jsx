@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import './Header.css'
+import stateImg from '../../assets/state-mgmt.png';
 
 
 const Header = () => {
@@ -13,7 +14,7 @@ const Header = () => {
 
     return (
         <header>
-     <img src={test} alt="Test" />
+     <img src={stateImg} alt="Test" />
             <h1>React Essentials</h1>
             <p>
                 {reactDescriptions[genRandomInt(2)]} React concepts you will need for almost any app you are
