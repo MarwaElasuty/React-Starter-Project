@@ -39,7 +39,7 @@ This project covers practical implementations of core React fundamentals, includ
 - JavaScript (ES6+)
 - CSS
 
-#Project Purpose
+# Project Purpose
 
 This repository serves as:
 
